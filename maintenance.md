@@ -5,7 +5,7 @@ permalink: /maintenance/
 ---
 
 <p>
-  <h3>We are a licensed aircraft maintenance company that is geared to making flying pleasurable for both Customers and the Aviation Enthusiasts.
+  <h3>We are a fully licensed aircraft maintenance company that aims to make the maintaining your aircraft a smooth process.
 </h3>
 <h3>We service and maintain:</h3>
 
