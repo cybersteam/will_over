@@ -5,7 +5,7 @@ title: Willover Aviation Companies
 tagline: im a tagline
 email: ivan@willover.world
 description: Willover Aviation deals with Aircraft maintenance, Avionics, AMETA training and Cargo hauling.
-baseurl: "/willover" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cybersteam
 
