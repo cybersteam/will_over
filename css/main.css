@@ -2,39 +2,38 @@
 
 body {
   border-top: 15px solid #002f6c;
-
   background-image: url("../assets/img/hangar.png");
   background-attachment: fixed;
   background-size: 100%;
   background-repeat: no-repeat;
-
   background-color: #ccc;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-
 }
+
 h3 {
   font-size: 0.5em;
 }
+
 .fixed-action-btn {
   margin-bottom:10px;
-  text-align: center;
-
 }
 
 .wrap {
    flex: 1 0 auto;
-
- }
+}
 
 hr {
   border-top: 0.5px solid #ccc;
-  border-bottom: 0.5px solid #333333;
+  width:60%;
+  /*border-bottom: 0.5px solid #333333;*/
 }
-.page-footer {
-  background-color: #002f6c;
+
+footer.page-footer {
+  background-color: #002f6c !important;
 }
-.page-footer .footer-copyright {
-  background-color: #4f83cc;
+
+footer.page-footer .footer-copyright {
+  background-color: #4f83cc !important;
 }
