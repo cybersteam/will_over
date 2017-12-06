@@ -3,7 +3,7 @@
 
 
 body {
-  border-top: 15px solid #002f6c;
+  border-top: 15px solid #283593;
 
 }
 .landingpage{
@@ -22,27 +22,37 @@ body {
   margin: 0 10px 0 10px;
   height: 150%
 }
-
+h1{
+  font-size: 3em;
+}
 h3 {
   font-size: 1.5em;
 }
 
 .fixed-action-btn {
   margin-bottom:10px;
-  
+
 
 }
 
-
+.map {
+  width:120%;
+  margin-left:-10px;
+  display: flex;
+  flex-direction: column;
+}
 
 hr {
   border-top: 0.5px solid #ccc;
   width:100%;
   /*border-bottom: 0.5px solid #333333;*/
 }
+btn-floating {
+  background-color: #66bb6a;
+}
 
 footer.page-footer {
-  background-color: #002f6c !important;
+  background-color: #283593 !important;
   min-height: 0;
   vertical-align: baseline;
   z-index: 2;
@@ -53,7 +63,7 @@ footer.page-footer {
 }
 
 footer.page-footer .footer-copyright {
-  background-color: #4f83cc !important;
+  background-color: #0091ea !important;
   padding-left:20px;
 }
 /* Customize the label (the container) */

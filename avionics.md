@@ -15,7 +15,7 @@ permalink: /avionics/
   <li>FDS</li>
   <li>L-3 Communication</li>
   </ul>
-
+<hr>
   <h3>Service support includes:</h3>
 
 <ul>
@@ -30,5 +30,9 @@ permalink: /avionics/
   <li>Repairs and RTS certification on the FA2100 DFRD/CVFDR.</li>
   <li>FA2100 CVR transcription and recertification.</li>
 </ul>
+<br>
+<br>
+<br>
+<br>
 
 </p>

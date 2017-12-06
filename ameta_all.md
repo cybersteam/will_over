@@ -1,19 +1,19 @@
 ---
 layout: page
-title: All Available Course
+title: All Available Courses
 permalink: /ameta-all/
 ---
 
 <p>
 <ul>
 <hr>
-<li><strong>Course 1</strong></li>
+<li><a href="../ameta-book"><strong>Course 1</strong></a></li>
 <hr>
-<li><strong>Course 2</strong></li>
+<li><a href="../ameta-book"><strong>Course 2</strong></a></li>
 <hr>
-<li><strong>Course 3</strong></li>
+<li><a href="../ameta-book"><strong>Course 3</strong></a></li>
 <hr>
-<li><strong>Course 4</strong></li>
+<li><a href="../ameta-book"><strong>Course 4</strong></a></li>
 <hr>
 </ul>
 </p>
