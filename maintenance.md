@@ -7,6 +7,7 @@ permalink: /maintenance/
 <p>
   <h3>We are a fully licensed aircraft maintenance company that aims to make the maintaining your aircraft a smooth process.
 </h3>
+<hr>
 <h3>We service and maintain:</h3>
 
 <ul>

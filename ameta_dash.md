@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AMETA Dashboard
+title: AMETA console
 permalink: /ameta-dashboard/
 ---
 
@@ -9,11 +9,23 @@ permalink: /ameta-dashboard/
 <hr>
 <br>
 <a href="../ameta-current">My Current Training</a>
+<br>
+<br>
 <hr>
+
+<br>
 <a href="../ameta-pending">My Pending Training</a>
+<br>
+<br>
 <hr>
+<br>
 <a href="../ameta-history">My History</a>
+<br>
+<br>
 <hr>
+<br>
 <a href="../ameta-all">All Available Courses</a>
+<br>
+<br>
 <hr>
 </p>
