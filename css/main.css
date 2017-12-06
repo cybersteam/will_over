@@ -4,14 +4,12 @@
 
 body {
   border-top: 15px solid #002f6c;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
+
 }
 .landingpage{
   background-image: url("../assets/img/hangar.png");
   background-attachment: fixed;
-  background-size: inherit;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-color: #ccc;
   min-height: 87vh;
@@ -22,6 +20,7 @@ body {
 
 .page {
   margin: 0 10px 0 10px;
+  height: 150%
 }
 
 h3 {
