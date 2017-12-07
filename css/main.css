@@ -3,15 +3,21 @@
 
 
 body {
-  border-top: 15px solid #283593;
-
+  border-top: 15px solid #01579b;
+  height:200%;
 }
 .landingpage{
-  background-image: url("../assets/img/hangar.png");
+
+
   background-attachment: fixed;
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-color: #ccc;
+
+  background: #dbdbdb;
+
+  background-image: url("../assets/img/hangar_green.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+
   min-height: 87vh;
   display: flex;
   flex-direction: column;
@@ -47,12 +53,11 @@ hr {
   width:100%;
   /*border-bottom: 0.5px solid #333333;*/
 }
-btn-floating {
-  background-color: #66bb6a;
-}
+
 
 footer.page-footer {
-  background-color: #283593 !important;
+  background-color: #01579b !important;
+  border-top:3px solid #66bb6a;
   min-height: 0;
   vertical-align: baseline;
   z-index: 2;
