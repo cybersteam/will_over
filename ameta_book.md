@@ -35,4 +35,15 @@ This course covers all the necessary qualifications to ... etc.
   <input type="checkbox">
   <span class="checkmark"></span>
 </label>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
