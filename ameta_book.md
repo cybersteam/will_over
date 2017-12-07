@@ -1,17 +1,19 @@
 ---
-layout: page
+layout: page_apps
 title: Book Course
 permalink: /ameta-book/
 ---
 {% include head.html %}
 <p>
-<strong>Course Name: Example1</strong>
+<strong>Course Name: NAME_OF_COURSE</strong>
 <hr>
-Details:
-This course covers all the necessary qualifications to work on the ... engine and ... etc.
+<br>
+This course covers all the necessary qualifications to ... etc.
 <br>
 <br>
 <button>Pay Now</button>
+<br>
+<br>
 <hr>
 
 </p>
