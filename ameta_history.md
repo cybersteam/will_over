@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: AMETA History
+title: History
 permalink: /ameta-history/
 ---
 

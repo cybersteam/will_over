@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: My Current Courses
+title: Current Courses
 permalink: /ameta-current/
 ---
 

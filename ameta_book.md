@@ -1,6 +1,6 @@
 ---
 layout: page_apps
-title: Book Course
+title: Book This Course
 permalink: /ameta-book/
 ---
 {% include head.html %}
