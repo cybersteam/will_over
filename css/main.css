@@ -9,14 +9,14 @@ body {
 .landingpage{
 
 
-  background-attachment: fixed;
+
 
   background: #dbdbdb;
 
   background-image: url("../assets/img/hangar_green.png");
     background-size: 100%;
     background-repeat: no-repeat;
-
+background-attachment: fixed;
 
   min-height: 87vh;
   display: flex;
