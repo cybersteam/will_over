@@ -21,7 +21,7 @@ body {
 .landingpage{
   background: #dbdbdb;
 
-  background-image: url("../assets/img/hangar_green.png");
+  /*background-image: url("../assets/img/hangar_green.png");*/
     background-size: 100%;
     background-repeat: no-repeat;
 background-attachment: fixed;
