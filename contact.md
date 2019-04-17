@@ -12,7 +12,8 @@ Broederstroom
 <p>
 
 <p>
-mail: willoveravionics@gmail.com
+  
+mail: <a href="willoveravionics@gmail.com?Subject=Sales%20Enquiry" target="_top">willoveravionics@gmail.com</a>
 <br>
 Tel1: +27 63 252 0691
 <br>
