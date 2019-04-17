@@ -16,6 +16,11 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+.butt{
+  width:50vw;
+  height:auto;
+  text-align:center;
+}
 
 .landingpage{
   background: #dbdbdb;
