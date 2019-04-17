@@ -6,7 +6,6 @@ body {
   border-top: 15px solid #01579b;
   height:200%;
 }
-.landingpage{
 
 .links{
   width:100%;
@@ -15,6 +14,10 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+.landingpage{
+
+
 
 
   background: #dbdbdb;
